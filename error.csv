@@ -1,19 +1,30 @@
 add.POSIXct,viz_owner_repo,error
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr1_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr7_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr21_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr1_500000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr7_500000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr21_50000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr1_1000000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr7_1000000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_counts_chr21_1000000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr1_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr7_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr21_200000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr1_500000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr7_500000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr21_500000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr1_1000000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr7_1000000,Capture.PNG download returned 404: Not Found
-2025-11-26T13:29:07.596943Z,eoojj/viz_hicream_simu_diff_chr21_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr1_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr7_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr21_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr1_500000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr7_500000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr21_50000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr1_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr7_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_counts_chr21_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr1_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr7_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr21_200000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr1_500000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr7_500000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr21_500000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr1_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr7_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_simu_diff_chr21_1000000,Capture.PNG download returned 404: Not Found
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr1_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr1_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr2_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr2_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr3_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr3_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr4_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr4_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr5_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr5_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr6_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr6_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr7_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr7_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr8_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr8_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr10_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr10_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr12_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr12_50000//refs/heads/gh-pages/plot.json'
+2025-11-29T16:11:44.714156Z,eoojj/viz_hicream_bonev_diff_chr16_50000/,cannot open URL 'https://raw.githubusercontent.com/eoojj/viz_hicream_bonev_diff_chr16_50000//refs/heads/gh-pages/plot.json'
